@@ -68,7 +68,7 @@ a {
     border-radius:7px;
 }
 
-.sign-up {
+.section-1 .sign-up {
     background-color:#3882F6;
     border-radius:10px;
     color:white;
@@ -133,4 +133,33 @@ a {
     font-size:19px;
     font-weight:700;
     align-self:flex-end;
+}
+
+.section-4 {
+    display:flex;
+    justify-content:center;
+    padding:80px 35px;
+    color:white;
+}
+
+.section-4 .text .heading {
+    font-weight:600;
+    font-size:25px;
+}
+
+.section-4 .sign-up {
+    padding:7px 20px;
+    align-self:center;
+    border:2px solid white;
+    border-radius:10px;
+    background-color:#3882F6;
+    color:white;
+}
+
+.section-4 .centered-element {
+    display:flex;
+    gap: 110px;
+    background-color:#3882F6;
+    border-radius:10px;
+    padding:40px 120px;
 }
