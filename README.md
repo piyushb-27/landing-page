@@ -10,6 +10,19 @@ The objective of this project was to build a landing page from scratch based on 
 - Flexbox layout techniques
 - CSS styling (typography, spacing, visual hierarchy)
 
+## 🔗 Live Demo
+
+👉 [click here](https://piyushb-27.github.io/landing-page/)
+
+## 📸 Screenshot
+
+![Landing Page - Desktop-1](./images/landing-page-desktop-1.png)
+![Landing Page - Desktop-2](./images/landing-page-desktop-2.png)
+
+*Desktop view*
+
+
+
 ## 🧰 Technologies Used
 
 - HTML
@@ -42,10 +55,6 @@ The landing page is divided into the following sections:
 - Developed attention to **spacing, colors, and visual balance**  
 
 ---
-
-## 🔗 Live Demo
-
-👉 [click here](https://piyushb-27.github.io/landing-page/)
 
 ## 🙏 Acknowledgements
 
